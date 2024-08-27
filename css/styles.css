@@ -1,0 +1,65 @@
+body {
+  height: 100vh;
+}
+
+header {
+  height: 15vh;
+}
+
+header {
+  height: 15vh;
+}
+
+header {
+  background-color: #16726a;
+  font-family: "Roboto", sans-serif;
+}
+
+header nav ul li:hover {
+  background-color: #0f0a388f;
+}
+
+header nav ul li a {
+  text-decoration: none;
+}
+
+header nav ul li a:visited {
+  color: black;
+}
+
+.bg {
+  background-image: linear-gradient(to left, rgb(185, 183, 14), rgb(42, 29, 161));
+}
+
+#boton {
+  width: 125px;
+  height: 50px;
+  margin: 5px;
+  transition: 3s;
+  background-color: rgb(231, 219, 219);
+  border-radius: 0.5rem;
+  transform: translateY(-5px);
+
+}
+
+#boton:hover {
+  height: fit-content;
+}
+
+main {
+  height: 80vh;
+}
+
+footer {
+  height: 5vh;
+}
+
+li {
+  list-style-type: none;
+}
+
+.slide img {
+  height: 20vh;
+}
+
+/*# sourceMappingURL=styles.css.map */

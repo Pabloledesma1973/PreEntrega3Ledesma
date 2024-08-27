@@ -1,0 +1,16 @@
+header {
+  height: 15vh;
+}
+header {
+  background-color: #db9292;
+  font-family: "Roboto", sans-serif;
+}
+header nav ul li:hover {
+  background-color: #dee2da;
+}
+header nav ul li a {
+  text-decoration: none;
+}
+header nav ul li a:visited {
+  color: black;
+}
